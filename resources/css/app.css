@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.jumbotron{
+    background-image: url('../../public/img/c74c8a4ef8ca.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Pixelify Sans;
+}
+/* .mockup-code{
+    background-color: rgb(32, 32, 32);
+} */
